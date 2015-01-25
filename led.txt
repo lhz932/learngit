@@ -1,4 +1,6 @@
 #ifndef	_LED_H_
 #define	_LED_H_
 
+
+#define nop()	_nop_()
 #endif
